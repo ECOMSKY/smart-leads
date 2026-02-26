@@ -31,7 +31,7 @@ export default function Differenciateurs() {
         </p>
 
         {/* Table */}
-        <div className="fade-up mt-14 md:mt-20 rounded-[18px] border border-dark-border bg-dark-card overflow-hidden shadow-[0_4px_40px_rgba(0,0,0,0.3)]">
+        <div className="fade-up mt-14 md:mt-20 rounded-[18px] border border-dark-border bg-dark-card overflow-visible shadow-[0_4px_40px_rgba(0,0,0,0.3)]">
           <div>
             {/* Header */}
             <div className="grid grid-cols-[1fr_80px_80px] sm:grid-cols-[1fr_130px_170px] md:grid-cols-[1fr_170px_220px] border-b border-dark-border">
