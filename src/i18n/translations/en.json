@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "title": "Smart Leads — Meta Ads Agency Specialized in Qualified B2B Leads",
+    "description": "85% of your Meta leads will never become customers. Smart Leads filters prospects in real time so the algorithm only optimizes for the right profiles.",
+    "ogTitle": "Smart Leads — Meta Ads Agency Specialized in Qualified B2B Leads",
+    "ogDescription": "85% of your Meta leads will never become customers. Smart Leads filters prospects in real time so the algorithm only optimizes for the right profiles."
+  },
+  "navbar": {
+    "problem": "Problem",
+    "approach": "Our approach",
+    "howItWorks": "How it works",
+    "results": "Results",
+    "faq": "FAQ",
+    "cta": "Book a call"
+  },
+  "hero": {
+    "sectionLabel": "[ 01 — Intro ]",
+    "badge": "Digital advertising agency specialized in qualified lead generation",
+    "titleMain": "60% of your leads will never become clients.",
+    "titleHighlight": "And each one costs money to your campaigns.",
+    "subtitlePre": "Our agency deploys a ",
+    "subtitleHighlight1": "real-time filtering technology",
+    "subtitleMid": " so that your Meta campaigns\noptimize only on ",
+    "subtitleHighlight2": "truly qualified prospect signals",
+    "subtitlePost": ".",
+    "cta": "Book a call"
+  },
+  "probleme": {
+    "sectionLabel": "[ 02 — The problem ]",
+    "titleLine1": "A form filled out =",
+    "titleLine2": "mission accomplished for Meta.",
+    "titleLine3": "Even if it's the wrong profile.",
+    "leftTitle": "How does the advertising algorithm work?",
+    "card1Text": "You receive a form submission.",
+    "card1Sub": "Meta thinks it's a good prospect.",
+    "card1Warning": "Even if this person ",
+    "card1WarningHighlight": "will never become a client",
+    "card1Detail": "Not the budget. Not the right need. Or just curious.",
+    "card2Text": "Your Meta ad campaign treats this contact as a ",
+    "card2Highlight1": "success",
+    "card2Mid": " and looks for ",
+    "card2Highlight2": "similar profiles",
+    "card2End": ".",
+    "conclusionLine1": "You generate more form submissions… ",
+    "conclusionHighlight": "but not more clients",
+    "conclusionLine2": "⚠ Your budget is progressively heading in the ",
+    "conclusionBold": "wrong direction",
+    "rightTitle": "What % of your leads are actually qualified?",
+    "leadsGenerated": "Prospects generated",
+    "leadsProfitable": "Actually profitable prospects",
+    "leadsNeverClients": " of prospects will never become clients.",
+    "costPerProspect": "Real cost per prospect",
+    "apparentCost": "Apparent cost",
+    "perFormFilled": "per form filled",
+    "realCost": "Real cost",
+    "perQualifiedProspect": "per ",
+    "qualified": "qualified prospect"
+  },
+  "transition": {
+    "sectionLabel": "[ 03 — Our approach ]",
+    "pill": "Meta advertising agency Smart Leads",
+    "line1Pre": "That's why we created ",
+    "line1Highlight": "Smart Leads",
+    "line1Post": ".",
+    "line2Pre": "A media agency specialized in ",
+    "line2Highlight": "prospect qualification",
+    "line2Post": " before they send the wrong signal to Meta.",
+    "line3Pre": "Our goal: make sure your campaigns learn only from your ",
+    "line3Highlight": "real clients",
+    "line3Post": ".",
+    "incomingLabel": "Prospects",
+    "filterLabel": "SMART\nLEADS",
+    "outgoingLabel": "Qualified"
+  },
+  "solution": {
+    "sectionLabel": "[ 04 — The solution ]",
+    "title": "How does it ",
+    "titleHighlight": "work",
+    "titleEnd": "?",
+    "subtitle": "4 steps to turn your Meta campaigns into a client generator.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "The prospect fills out",
+        "subtitle": "your form",
+        "description": "Nothing changes for the user. They arrive from your ad and answer your questions. Each response is analyzed in real time."
+      },
+      {
+        "num": "02",
+        "title": "Automatic",
+        "subtitle": "OK / KO qualification",
+        "description": "Minimum budget, project type, urgency, client profile. If the prospect matches → OK. Otherwise → KO. You filter before the call."
+      },
+      {
+        "num": "03",
+        "title": "Only qualified profiles",
+        "subtitle": "trigger Meta",
+        "description": "Only validated prospects trigger conversion events. Meta learns to find profiles similar to your real clients only."
+      },
+      {
+        "num": "04",
+        "title": "Your cost per client",
+        "subtitle": "drops day after day",
+        "description": "Meta no longer optimizes on all prospects, only on qualified ones. Result: your CPA drops and every euro spent brings you closer to a real client."
+      }
+    ],
+    "callout": "Installs without touching your landing pages. ",
+    "calloutHighlight": "Integrates with your existing funnel.",
+    "cta": "Book a call"
+  },
+  "resultats": {
+    "sectionLabel": "[ 05 — Results ]",
+    "title": "What it actually changes",
+    "stats": [
+      { "value": "-40%", "label": "on your cost per client" },
+      { "value": "×2.3", "label": "return on investment" },
+      { "value": "100%", "label": "Budget focused only on qualified profiles" }
+    ],
+    "simulatorTitle": "Simulate the impact on your campaigns",
+    "simulatorSubtitle": "Enter your data and discover the difference.",
+    "budgetLabel": "Monthly Meta budget",
+    "costPerLeadLabel": "Current cost per lead",
+    "today": "Today",
+    "month1": "Month 1",
+    "month6": "Month 6",
+    "goalBadge": "Goal",
+    "leadsGenerated": "Leads generated",
+    "qualifiedLeads": "Qualified leads",
+    "costPerQualified": "Cost per qualified prospect",
+    "summaryPre": "The more Meta learns from your ",
+    "summaryHighlight1": "real clients",
+    "summaryMid": ", the more ",
+    "summaryHighlight2": "profitable",
+    "summaryPost": " your campaigns become.",
+    "disclaimer": "Simulation based on average observed performance. Results vary depending on your industry and offers."
+  },
+  "differenciateurs": {
+    "sectionLabel": "[ 06 — Comparison ]",
+    "title": "Standard agency vs Smart Leads",
+    "subtitlePre": "The difference isn't in the ads.",
+    "subtitlePost": "It's in the ",
+    "subtitleHighlight": "signals sent to Meta",
+    "classicAgency": "Standard agency",
+    "recommended": "Recommended",
+    "rows": [
+      "Generates form submissions",
+      "Qualifies leads before conversion",
+      "Optimizes the Meta algorithm on the right profiles",
+      "Reduces your CPA over time",
+      "Protects your budget from bad profiles",
+      "Works on real profitability"
+    ],
+    "rarely": "Rarely",
+    "cta": "Book a call"
+  },
+  "secteurs": {
+    "sectionLabel": "[ 07 — Industries ]",
+    "title": "Smart Leads works for your industry",
+    "subtitle": "Any business that generates leads through Meta can benefit.",
+    "items": [
+      "Construction",
+      "Renovation & Home improvement",
+      "Lawyers & Legal",
+      "Brokers & Finance",
+      "Dentists & Healthcare",
+      "Real estate",
+      "Energy & Solar",
+      "Automotive",
+      "Training & Coaching",
+      "Agencies & IT services",
+      "Gyms & Fitness",
+      "Home services",
+      "Moving & Relocation",
+      "Security & Alarms",
+      "Landscaping & Gardening",
+      "Consulting"
+    ],
+    "notFoundPre": "Can't find your industry? ",
+    "notFoundLink": "Contact us",
+    "notFoundPost": " — if you generate leads through Meta, we can probably help."
+  },
+  "formulaire": {
+    "sectionLabel": "[ 08 — Qualification ]",
+    "title": "Are you eligible?",
+    "subtitle": "Answer 5 quick questions. 90 seconds, no more.",
+    "spoiler": "Spoiler: you're testing the technology live right now.",
+    "disclaimer": "🔒 Your answers are analyzed only to assess the relevance of a collaboration. No data is resold."
+  },
+  "faq": {
+    "sectionLabel": "[ 09 — FAQ ]",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Does it work with my existing forms?",
+        "a": "Yes. We adapt the qualification to your current funnel. In some cases, we slightly optimize the flow to integrate OK / KO criteria without hurting conversion."
+      },
+      {
+        "q": "Do I need to redo my landing pages?",
+        "a": "No. The qualification mechanism integrates with your current system, without a complete redesign."
+      },
+      {
+        "q": "How long before I see results?",
+        "a": "The first adjustments typically appear within 2 to 4 weeks. Meta needs a minimum of qualified signals to optimize effectively."
+      },
+      {
+        "q": "Does it reduce my number of leads?",
+        "a": "No. It reduces the number of unqualified leads. The goal is to increase your closing rate, not raw volume."
+      },
+      {
+        "q": "Does it work if I sell through calls?",
+        "a": "Yes. It's actually in appointment-based sales that strategic qualification has the most impact."
+      },
+      {
+        "q": "Is it suitable for my industry?",
+        "a": "The method is applicable to any industry that generates leads, in B2B or high-value B2C."
+      },
+      {
+        "q": "What if my leads are already good?",
+        "a": "We analyze your current performance. If your funnel is already performing well, we optimize the signal sent to Meta to amplify the most profitable profiles."
+      },
+      {
+        "q": "Does it work with a small budget?",
+        "a": "Yes, provided there's enough volume for Meta to learn. We define together a budget consistent with your goals."
+      },
+      {
+        "q": "How is this different from a standard Meta agency?",
+        "a": "Most agencies optimize campaigns. We optimize what Meta learns. The difference is in the signals sent, not just the ads."
+      },
+      {
+        "q": "Can I try before committing?",
+        "a": "Yes. We analyze your situation and present you with a clear action plan before any collaboration."
+      }
+    ]
+  },
+  "footer": {
+    "legalNotice": "Legal notice",
+    "terms": "Terms of service",
+    "privacy": "Privacy policy",
+    "copyright": "© 2026 Smart Leads — All rights reserved",
+    "disclaimer": "Smart Leads is an independent service and is neither affiliated with, associated with, nor endorsed by Meta Platforms Inc. Facebook and Instagram are registered trademarks of Meta Platforms Inc."
+  },
+  "blog": {
+    "metaTitle": "Blog — Smart Leads",
+    "metaDescription": "Tips and strategies to optimize your Meta Ads campaigns and qualify your leads. By the Smart Leads team.",
+    "sectionLabel": "[ Blog ]",
+    "title": "Blog",
+    "subtitle": "Tips, strategies and insights to optimize your Meta Ads campaigns.",
+    "readMore": "Read article",
+    "backToBlog": "← Back to blog",
+    "readTime": "read",
+    "publishedOn": "Published on",
+    "share": "Share",
+    "relatedArticles": "Related articles"
+  },
+  "legal": {
+    "backToHome": "← Back to home"
+  },
+  "mentionsLegales": {
+    "metaTitle": "Legal Notice — Smart Leads",
+    "title": "Legal Notice",
+    "editorTitle": "Website publisher",
+    "editorText": "The website smart-leads.fr is published by ECOMSKY, a limited liability company (SARL) registered in France.",
+    "companyName": "Company name:",
+    "companyValue": "ECOMSKY",
+    "legalForm": "Legal form:",
+    "legalFormValue": "SARL (Limited Liability Company)",
+    "address": "Registered office:",
+    "addressValue": "229 rue Saint-Honoré, 75001 Paris, France",
+    "vat": "EU VAT number:",
+    "vatValue": "FR05849401385",
+    "director": "Publication director:",
+    "directorValue": "[TO BE COMPLETED]",
+    "hostingTitle": "Hosting",
+    "hostingText": "The website is hosted by Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, United States.",
+    "ipTitle": "Intellectual property",
+    "ipText1": "All content on the website smart-leads.fr (texts, images, graphics, logo, icons, software) is the exclusive property of ECOMSKY or its partners and is protected by French and international intellectual property laws.",
+    "ipText2": "Any reproduction, representation, modification, publication or adaptation of all or part of the website's elements is prohibited without prior written authorization from ECOMSKY.",
+    "responsibilityTitle": "Liability",
+    "responsibilityText": "ECOMSKY strives to provide information as accurate as possible on the website smart-leads.fr. However, it cannot be held responsible for omissions, inaccuracies or deficiencies in updating this information.",
+    "dataTitle": "Personal data",
+    "dataTextPre": "For any information regarding the processing of your personal data, please consult our ",
+    "dataTextLink": "Privacy policy",
+    "dataTextPost": ".",
+    "contactTitle": "Contact",
+    "contactText": "For any questions regarding the legal notice, you can contact us via the form on the website smart-leads.fr.",
+    "lastUpdated": "Last updated: February 2026"
+  },
+  "cgv": {
+    "metaTitle": "Terms of Service — Smart Leads",
+    "title": "Terms of Service",
+    "article1Title": "Article 1 — Purpose",
+    "article1Text": "These Terms of Service govern the contractual relations between ECOMSKY (SARL), with its registered office at 229 rue Saint-Honoré, 75001 Paris, France (hereinafter \"the Provider\"), and any natural or legal person wishing to benefit from the services offered via the website smart-leads.fr (hereinafter \"the Client\").",
+    "article2Title": "Article 2 — Services",
+    "article2Text": "The Provider offers consulting and technology deployment services aimed at optimizing lead qualification from online advertising campaigns (Meta Ads, Google Ads and other platforms). Services include:",
+    "article2Items": [
+      "Audit of advertising campaigns and existing forms",
+      "Deployment of an AI scoring system on the Client's forms",
+      "Configuration of conditional conversion events",
+      "Ongoing monitoring and optimization of results"
+    ],
+    "article3Title": "Article 3 — Quotation and acceptance",
+    "article3Text": "Each service is subject to a personalized quotation sent to the Client. Signing the quotation or written confirmation (including by email) constitutes acceptance of these Terms of Service and a firm commitment from the Client.",
+    "article4Title": "Article 4 — Pricing and billing",
+    "article4Text1": "Prices are indicated in euros excluding taxes (HT) on the quotation. Applicable VAT will be added in accordance with current regulations.",
+    "article4Vat": "EU VAT number: FR05849401385",
+    "article4Text2": "Invoices are payable upon receipt, unless otherwise stated on the quotation. Any late payment automatically entails the application of late payment penalties at a rate of 3 times the legal interest rate, as well as a fixed indemnity of €40 for recovery costs.",
+    "article5Title": "Article 5 — Duration and termination",
+    "article5Text": "The duration of the service is defined in the quotation. Either party may terminate the contract by giving 30 days' written notice. In the event of early termination by the Client, amounts already paid remain with the Provider in proportion to work completed.",
+    "article6Title": "Article 6 — Client obligations",
+    "article6Text": "The Client agrees to:",
+    "article6Items": [
+      "Provide necessary access to their advertising accounts and website",
+      "Communicate accurate and complete information necessary for the delivery of services",
+      "Actively collaborate with the Provider in defining qualification criteria"
+    ],
+    "article7Title": "Article 7 — Liability",
+    "article7Text": "The Provider undertakes to implement all necessary means for the proper execution of services. This is an obligation of means, not of result. The Provider cannot be held responsible for the performance of the Client's advertising campaigns, as these depend on numerous external factors.",
+    "article8Title": "Article 8 — Confidentiality",
+    "article8Text": "Each party undertakes to treat as confidential all information exchanged in the context of the service. This confidentiality obligation remains in effect for 2 years after the end of the contractual relationship.",
+    "article9Title": "Article 9 — Applicable law and disputes",
+    "article9Text": "These Terms of Service are governed by French law. In the event of a dispute, the parties undertake to seek an amicable solution. Failing that, the competent courts of Paris shall have sole jurisdiction.",
+    "lastUpdated": "Last updated: February 2026"
+  },
+  "privacy": {
+    "metaTitle": "Privacy Policy — Smart Leads",
+    "title": "Privacy Policy",
+    "controllerTitle": "Data controller",
+    "company": "Company:",
+    "companyValue": "ECOMSKY (SARL)",
+    "addressLabel": "Address:",
+    "addressValue": "229 rue Saint-Honoré, 75001 Paris, France",
+    "contactLabel": "Contact:",
+    "contactValue": "via the form available on smart-leads.fr",
+    "dataCollectedTitle": "Data collected",
+    "dataCollectedText": "In the course of using the website smart-leads.fr, we may collect the following data:",
+    "dataCollectedItems": [
+      "Information provided in the qualification form (name, email, phone, information about your business and advertising campaigns)",
+      "Browsing data (IP address, browser type, pages visited, visit duration)",
+      "Data transmitted via UTM parameters from advertising campaigns"
+    ],
+    "purposeTitle": "Processing purposes",
+    "purposeText": "Your data is collected for the following purposes:",
+    "purposeItems": [
+      "Assess the relevance of a collaboration between you and ECOMSKY",
+      "Contact you regarding your request",
+      "Improve the quality of our services and website",
+      "Measure the performance of our advertising campaigns"
+    ],
+    "legalBasisTitle": "Legal basis",
+    "legalBasisText": "The processing of your data is based on your consent (form submission) and our legitimate interest (improvement of our services and performance measurement).",
+    "retentionTitle": "Data retention period",
+    "retentionText": "Your personal data is retained for a maximum of 24 months from collection, unless otherwise required by law. Browsing data is retained for 13 months in accordance with CNIL recommendations.",
+    "sharingTitle": "Data sharing",
+    "sharingText": "Your data is never resold to third parties. It may be shared with:",
+    "sharingItems": [
+      "Our technical subcontractors (hosting, analytics tools) strictly within the scope of the service",
+      "Advertising platforms (Meta, Google) for conversion tracking, only for qualified leads"
+    ],
+    "sharingNote": "All our subcontractors are subject to confidentiality and security obligations in compliance with GDPR.",
+    "rightsTitle": "Your rights",
+    "rightsText": "In accordance with the General Data Protection Regulation (GDPR), you have the following rights:",
+    "rightsItems": [
+      { "name": "Right of access", "desc": "obtain a copy of your personal data" },
+      { "name": "Right of rectification", "desc": "correct inaccurate data" },
+      { "name": "Right of erasure", "desc": "request the deletion of your data" },
+      { "name": "Right of objection", "desc": "object to the processing of your data" },
+      { "name": "Right to portability", "desc": "receive your data in a structured format" },
+      { "name": "Right of restriction", "desc": "restrict the processing of your data" }
+    ],
+    "rightsContact": "To exercise these rights, contact us via the form available on smart-leads.fr. We commit to responding within 30 days.",
+    "rightsCnil": "You also have the right to lodge a complaint with the CNIL (Commission Nationale de l'Informatique et des Libertés) — www.cnil.fr.",
+    "cookiesTitle": "Cookies",
+    "cookiesText": "The website smart-leads.fr uses technical cookies necessary for the website's operation and audience measurement cookies. You can manage your cookie preferences through your browser settings.",
+    "securityTitle": "Security",
+    "securityText": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure or destruction.",
+    "lastUpdated": "Last updated: February 2026"
+  }
+}

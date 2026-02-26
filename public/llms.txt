@@ -1,0 +1,29 @@
+# Smart Leads
+
+> Smart Leads is a digital advertising agency specialized in qualified lead generation for Meta Ads (Facebook & Instagram). We deploy real-time prospect filtering technology so that Meta's algorithm only optimizes on qualified signals.
+
+## About
+
+Smart Leads is operated by ECOMSKY SARL, based in Paris, France. We help B2B and high-value B2C businesses reduce their cost per qualified client by filtering unqualified leads before they send conversion signals to Meta's algorithm.
+
+## How It Works
+
+1. **Prospect fills your form** — Nothing changes for the user. Each response is analyzed in real time.
+2. **Automatic OK/KO qualification** — Budget, project type, urgency, client profile. Qualified → OK. Not qualified → KO.
+3. **Only qualified profiles trigger Meta** — Only validated prospects trigger conversion events. Meta learns to find similar profiles to your real clients.
+4. **Your cost per client drops** — Meta optimizes only on qualified prospects. Your CPA drops day after day.
+
+## Key Results
+
+- -40% on cost per client
+- ×2.3 return on investment
+- 100% budget focused on qualified profiles
+
+## Industries Served
+
+Construction, Renovation, Legal, Finance, Healthcare, Real Estate, Energy & Solar, Automotive, Training & Coaching, IT Services, Fitness, Home Services, Moving, Security, Landscaping, Consulting.
+
+## Contact
+
+Website: https://smart-leads.fr
+Address: 229 rue Saint-Honoré, 75001 Paris, France

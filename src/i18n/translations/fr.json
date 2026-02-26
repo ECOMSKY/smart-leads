@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "title": "Smart Leads — Agence Meta Ads spécialisée en leads qualifiés B2B",
+    "description": "85% de vos leads Meta ne deviendront jamais clients. Smart Leads filtre vos prospects en temps réel pour que l'algorithme n'optimise que sur les bons profils.",
+    "ogTitle": "Smart Leads — Agence Meta Ads spécialisée en leads qualifiés B2B",
+    "ogDescription": "85% de vos leads Meta ne deviendront jamais clients. Smart Leads filtre vos prospects en temps réel pour que l'algorithme n'optimise que sur les bons profils."
+  },
+  "navbar": {
+    "problem": "Problème",
+    "approach": "Notre approche",
+    "howItWorks": "Comment ça marche",
+    "results": "Résultats",
+    "faq": "FAQ",
+    "cta": "Réserver un appel"
+  },
+  "hero": {
+    "sectionLabel": "[ 01 — Intro ]",
+    "badge": "Agence de publicité digitale spécialisée sur la génération de prospects qualifiés",
+    "titleMain": "60% de vos prospects ne deviendront jamais clients.",
+    "titleHighlight": "Et chacun d'eux coûte de l'argent à vos campagnes.",
+    "subtitlePre": "Notre agence déploie une ",
+    "subtitleHighlight1": "technologie de filtrage en temps réel",
+    "subtitleMid": " afin que vos campagnes Meta\noptimisent uniquement sur des ",
+    "subtitleHighlight2": "signaux de prospects réellement qualifiés",
+    "subtitlePost": ".",
+    "cta": "Réserver un appel"
+  },
+  "probleme": {
+    "sectionLabel": "[ 02 — Le problème ]",
+    "titleLine1": "Un formulaire rempli =",
+    "titleLine2": "objectif atteint pour Meta.",
+    "titleLine3": "Même si c'est le mauvais profil.",
+    "leftTitle": "Comment fonctionne l'algorithme publicitaire ?",
+    "card1Text": "Vous recevez un formulaire.",
+    "card1Sub": "Meta pense que c'est un bon prospect.",
+    "card1Warning": "Même si cette personne ",
+    "card1WarningHighlight": "ne deviendra jamais cliente",
+    "card1Detail": "Pas le budget. Pas le bon besoin. Ou simplement curieuse.",
+    "card2Text": "Votre campagne publicitaire Meta considère ce contact comme un ",
+    "card2Highlight1": "succès",
+    "card2Mid": " et cherche des ",
+    "card2Highlight2": "profils similaires",
+    "card2End": ".",
+    "conclusionLine1": "Vous générez plus de formulaires… ",
+    "conclusionHighlight": "mais pas plus de clients",
+    "conclusionLine2": "⚠ Votre budget part progressivement dans la ",
+    "conclusionBold": "mauvaise direction",
+    "rightTitle": "Quel % de vos leads sont réellement qualifiés ?",
+    "leadsGenerated": "Prospects générés",
+    "leadsProfitable": "Prospects réellement rentables",
+    "leadsNeverClients": " des prospects ne deviendront jamais clients.",
+    "costPerProspect": "Coût réel par prospect",
+    "apparentCost": "Coût apparent",
+    "perFormFilled": "par formulaire rempli",
+    "realCost": "Coût réel",
+    "perQualifiedProspect": "par prospect ",
+    "qualified": "qualifié"
+  },
+  "transition": {
+    "sectionLabel": "[ 03 — Notre approche ]",
+    "pill": "Agence publicitaire Meta Smart Leads",
+    "line1Pre": "C'est pour résoudre ce problème que nous avons créé ",
+    "line1Highlight": "Smart Leads",
+    "line1Post": ".",
+    "line2Pre": "Une agence média spécialisée dans la ",
+    "line2Highlight": "qualification des prospects",
+    "line2Post": " avant qu'ils n'envoient le mauvais signal à Meta.",
+    "line3Pre": "Notre objectif : faire en sorte que vos campagnes apprennent uniquement de vos ",
+    "line3Highlight": "vrais clients",
+    "line3Post": ".",
+    "incomingLabel": "Prospects",
+    "filterLabel": "SMART\nLEADS",
+    "outgoingLabel": "Qualifiés"
+  },
+  "solution": {
+    "sectionLabel": "[ 04 — La solution ]",
+    "title": "Comment ça ",
+    "titleHighlight": "marche",
+    "titleEnd": " ?",
+    "subtitle": "4 étapes pour transformer vos campagnes Meta en générateur de clients.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Le prospect remplit",
+        "subtitle": "votre formulaire",
+        "description": "Rien ne change pour l'utilisateur. Il arrive depuis votre publicité et répond à vos questions. Chaque réponse est analysée en temps réel."
+      },
+      {
+        "num": "02",
+        "title": "Qualification",
+        "subtitle": "automatique OK / KO",
+        "description": "Budget minimum, type de projet, urgence, profil client. Si le prospect correspond → OK. Sinon → KO. Vous filtrez avant le call."
+      },
+      {
+        "num": "03",
+        "title": "Seuls les profils qualifiés",
+        "subtitle": "déclenchent Meta",
+        "description": "Seuls les prospects validés déclenchent les événements de conversion. Meta apprend uniquement à trouver des profils similaires à vos vrais clients."
+      },
+      {
+        "num": "04",
+        "title": "Votre coût par client",
+        "subtitle": "baisse de jour en jour",
+        "description": "Meta n'optimise plus sur tous les prospects, mais uniquement sur les qualifiés. Résultat : votre CPA baisse et chaque euro dépensé vous rapproche d'un vrai client."
+      }
+    ],
+    "callout": "Installation sans toucher à vos landing pages. ",
+    "calloutHighlight": "Intégration à votre tunnel existant.",
+    "cta": "Réserver un appel"
+  },
+  "resultats": {
+    "sectionLabel": "[ 05 — Résultats ]",
+    "title": "Ce que ça change concrètement",
+    "stats": [
+      { "value": "-40%", "label": "sur votre coût par client" },
+      { "value": "×2.3", "label": "de retour sur investissement" },
+      { "value": "100%", "label": "Budget concentré uniquement sur les profils qualifiés" }
+    ],
+    "simulatorTitle": "Simulez l'impact sur vos campagnes",
+    "simulatorSubtitle": "Entrez vos données et découvrez la différence.",
+    "budgetLabel": "Budget Meta mensuel",
+    "costPerLeadLabel": "Coût actuel par lead",
+    "today": "Aujourd'hui",
+    "month1": "Mois 1",
+    "month6": "Mois 6",
+    "goalBadge": "Objectif",
+    "leadsGenerated": "Leads générés",
+    "qualifiedLeads": "Leads qualifiés",
+    "costPerQualified": "Coût par prospect qualifié",
+    "summaryPre": "Plus Meta apprend de vos ",
+    "summaryHighlight1": "vrais clients",
+    "summaryMid": ", plus vos campagnes deviennent ",
+    "summaryHighlight2": "rentables",
+    "summaryPost": ".",
+    "disclaimer": "Simulation basée sur les performances moyennes observées. Les résultats varient selon votre secteur et vos offres."
+  },
+  "differenciateurs": {
+    "sectionLabel": "[ 06 — Comparatif ]",
+    "title": "Agence classique vs Smart Leads",
+    "subtitlePre": "La différence ne se joue pas dans les annonces.",
+    "subtitlePost": "Elle se joue dans les ",
+    "subtitleHighlight": "signaux envoyés à Meta",
+    "classicAgency": "Agence classique",
+    "recommended": "Recommandé",
+    "rows": [
+      "Génère des formulaires",
+      "Qualifie les leads avant conversion",
+      "Optimise l'algorithme Meta sur les bons profils",
+      "Réduit votre CPA au fil du temps",
+      "Protège votre budget des mauvais profils",
+      "Travaille sur la rentabilité réelle"
+    ],
+    "rarely": "Rarement",
+    "cta": "Réserver un appel"
+  },
+  "secteurs": {
+    "sectionLabel": "[ 07 — Secteurs ]",
+    "title": "Smart Leads fonctionne pour votre secteur",
+    "subtitle": "Tous les métiers qui génèrent des leads via Meta peuvent en bénéficier.",
+    "items": [
+      "BTP & Construction",
+      "Rénovation & Travaux",
+      "Avocats & Juridique",
+      "Courtiers & Finance",
+      "Dentistes & Santé",
+      "Immobilier",
+      "Énergie & Solaire",
+      "Automobile",
+      "Formation & Coaching",
+      "Agences & ESN",
+      "Salles de sport",
+      "Services à domicile",
+      "Déménagement",
+      "Sécurité & Alarmes",
+      "Paysagistes & Jardinage",
+      "Conseil & Consulting"
+    ],
+    "notFoundPre": "Vous ne trouvez pas votre secteur ? ",
+    "notFoundLink": "Contactez-nous",
+    "notFoundPost": " — si vous générez des leads via Meta, on peut probablement vous aider."
+  },
+  "formulaire": {
+    "sectionLabel": "[ 08 — Qualification ]",
+    "title": "Êtes-vous éligible ?",
+    "subtitle": "Répondez à 5 questions rapides. 90 secondes, pas plus.",
+    "spoiler": "Spoiler : vous êtes en train de tester la technologie en direct.",
+    "disclaimer": "🔒 Vos réponses sont analysées uniquement pour évaluer la pertinence d'une collaboration. Aucune donnée n'est revendue."
+  },
+  "faq": {
+    "sectionLabel": "[ 09 — FAQ ]",
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "q": "Est-ce que ça fonctionne avec mes formulaires existants ?",
+        "a": "Oui. Nous adaptons la qualification à votre tunnel actuel. Dans certains cas, nous optimisons légèrement le parcours pour intégrer les critères OK / KO sans nuire à la conversion."
+      },
+      {
+        "q": "Faut-il refaire mes landing pages ?",
+        "a": "Non. La mécanique de qualification s'intègre à votre système actuel, sans refonte complète."
+      },
+      {
+        "q": "Combien de temps avant de voir des résultats ?",
+        "a": "Les premiers ajustements apparaissent généralement sous 2 à 4 semaines. Meta a besoin d'un minimum de signaux qualifiés pour optimiser efficacement."
+      },
+      {
+        "q": "Est-ce que ça réduit mon nombre de leads ?",
+        "a": "Non. Ça réduit le nombre de leads non qualifiés. L'objectif est d'augmenter votre taux de closing, pas le volume brut."
+      },
+      {
+        "q": "Est-ce que ça fonctionne si je vends en call ?",
+        "a": "Oui. C'est même dans les ventes en rendez-vous que la qualification stratégique a le plus d'impact."
+      },
+      {
+        "q": "Est-ce adapté à mon secteur ?",
+        "a": "La méthode est applicable à tout secteur qui génère des leads, en B2B ou en B2C à forte valeur."
+      },
+      {
+        "q": "Que se passe-t-il si mes leads sont déjà bons ?",
+        "a": "Nous analysons vos performances actuelles. Si votre tunnel est déjà performant, nous optimisons le signal envoyé à Meta pour amplifier les profils les plus rentables."
+      },
+      {
+        "q": "Est-ce que ça fonctionne avec un petit budget ?",
+        "a": "Oui, à condition d'avoir suffisamment de volume pour que Meta puisse apprendre. Nous définissons ensemble un budget cohérent avec vos objectifs."
+      },
+      {
+        "q": "En quoi est-ce différent d'une agence Meta classique ?",
+        "a": "La plupart des agences optimisent les campagnes. Nous optimisons ce que Meta apprend. La différence se joue dans les signaux envoyés, pas seulement dans les annonces."
+      },
+      {
+        "q": "Est-ce que je peux tester avant de m'engager ?",
+        "a": "Oui. Nous analysons votre situation et vous présentons un plan d'action clair avant toute collaboration."
+      }
+    ]
+  },
+  "footer": {
+    "legalNotice": "Mentions légales",
+    "terms": "CGV",
+    "privacy": "Politique de confidentialité",
+    "copyright": "© 2026 Smart Leads — Tous droits réservés",
+    "disclaimer": "Smart Leads est un service indépendant et n'est ni affilié, ni associé, ni approuvé par Meta Platforms Inc. Facebook et Instagram sont des marques déposées de Meta Platforms Inc."
+  },
+  "blog": {
+    "metaTitle": "Blog — Smart Leads",
+    "metaDescription": "Conseils et stratégies pour optimiser vos campagnes Meta Ads et qualifier vos leads. Par l'équipe Smart Leads.",
+    "sectionLabel": "[ Blog ]",
+    "title": "Blog",
+    "subtitle": "Conseils, stratégies et retours d'expérience pour optimiser vos campagnes Meta Ads.",
+    "readMore": "Lire l'article",
+    "backToBlog": "← Retour au blog",
+    "readTime": "de lecture",
+    "publishedOn": "Publié le",
+    "share": "Partager",
+    "relatedArticles": "Articles similaires"
+  },
+  "legal": {
+    "backToHome": "← Retour à l'accueil"
+  },
+  "mentionsLegales": {
+    "metaTitle": "Mentions légales — Smart Leads",
+    "title": "Mentions légales",
+    "editorTitle": "Éditeur du site",
+    "editorText": "Le site smart-leads.fr est édité par la société ECOMSKY, SARL immatriculée en France.",
+    "companyName": "Raison sociale :",
+    "companyValue": "ECOMSKY",
+    "legalForm": "Forme juridique :",
+    "legalFormValue": "SARL",
+    "address": "Siège social :",
+    "addressValue": "229 rue Saint-Honoré, 75001 Paris, France",
+    "vat": "N° TVA intracommunautaire :",
+    "vatValue": "FR05849401385",
+    "director": "Directeur de la publication :",
+    "directorValue": "[À COMPLÉTER]",
+    "hostingTitle": "Hébergement",
+    "hostingText": "Le site est hébergé par Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis.",
+    "ipTitle": "Propriété intellectuelle",
+    "ipText1": "L'ensemble des contenus présents sur le site smart-leads.fr (textes, images, graphismes, logo, icônes, logiciels) est la propriété exclusive d'ECOMSKY ou de ses partenaires et est protégé par les lois françaises et internationales relatives à la propriété intellectuelle.",
+    "ipText2": "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans autorisation écrite préalable d'ECOMSKY.",
+    "responsibilityTitle": "Responsabilité",
+    "responsibilityText": "ECOMSKY s'efforce de fournir des informations aussi précises que possible sur le site smart-leads.fr. Toutefois, elle ne pourra être tenue responsable des omissions, inexactitudes ou carences dans la mise à jour de ces informations.",
+    "dataTitle": "Données personnelles",
+    "dataTextPre": "Pour toute information relative au traitement de vos données personnelles, veuillez consulter notre ",
+    "dataTextLink": "Politique de confidentialité",
+    "dataTextPost": ".",
+    "contactTitle": "Contact",
+    "contactText": "Pour toute question relative aux mentions légales, vous pouvez nous contacter via le formulaire présent sur le site smart-leads.fr.",
+    "lastUpdated": "Dernière mise à jour : février 2026"
+  },
+  "cgv": {
+    "metaTitle": "Conditions Générales de Vente — Smart Leads",
+    "title": "Conditions Générales de Vente",
+    "article1Title": "Article 1 — Objet",
+    "article1Text": "Les présentes Conditions Générales de Vente (CGV) régissent les relations contractuelles entre la société ECOMSKY (SARL), dont le siège social est situé au 229 rue Saint-Honoré, 75001 Paris, France (ci-après « le Prestataire »), et toute personne physique ou morale souhaitant bénéficier des services proposés via le site smart-leads.fr (ci-après « le Client »).",
+    "article2Title": "Article 2 — Services",
+    "article2Text": "Le Prestataire propose des services de conseil et de déploiement technologique visant à optimiser la qualification des leads issus de campagnes publicitaires en ligne (Meta Ads, Google Ads et autres plateformes). Les services incluent notamment :",
+    "article2Items": [
+      "Audit des campagnes publicitaires et des formulaires existants",
+      "Déploiement d'un système de scoring IA sur les formulaires du Client",
+      "Configuration des événements de conversion conditionnels",
+      "Suivi et optimisation continue des résultats"
+    ],
+    "article3Title": "Article 3 — Devis et acceptation",
+    "article3Text": "Toute prestation fait l'objet d'un devis personnalisé transmis au Client. La signature du devis ou la confirmation écrite (y compris par email) vaut acceptation des présentes CGV et engagement ferme du Client.",
+    "article4Title": "Article 4 — Tarifs et facturation",
+    "article4Text1": "Les tarifs sont indiqués en euros hors taxes (HT) sur le devis. La TVA applicable sera ajoutée conformément à la réglementation en vigueur.",
+    "article4Vat": "N° TVA intracommunautaire : FR05849401385",
+    "article4Text2": "Les factures sont payables à réception, sauf mention contraire sur le devis. Tout retard de paiement entraîne de plein droit l'application de pénalités de retard au taux de 3 fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire de 40 € pour frais de recouvrement.",
+    "article5Title": "Article 5 — Durée et résiliation",
+    "article5Text": "La durée de la prestation est définie dans le devis. Chaque partie peut résilier le contrat en respectant un préavis de 30 jours par notification écrite. En cas de résiliation anticipée par le Client, les sommes déjà versées restent acquises au Prestataire au prorata des travaux réalisés.",
+    "article6Title": "Article 6 — Obligations du Client",
+    "article6Text": "Le Client s'engage à :",
+    "article6Items": [
+      "Fournir les accès nécessaires à ses comptes publicitaires et à son site web",
+      "Communiquer les informations exactes et complètes nécessaires à la réalisation des services",
+      "Collaborer activement avec le Prestataire pour la définition des critères de qualification"
+    ],
+    "article7Title": "Article 7 — Responsabilité",
+    "article7Text": "Le Prestataire s'engage à mettre en œuvre tous les moyens nécessaires à la bonne exécution des services. Il s'agit d'une obligation de moyens et non de résultat. Le Prestataire ne saurait être tenu responsable des performances des campagnes publicitaires du Client, celles-ci dépendant de nombreux facteurs externes.",
+    "article8Title": "Article 8 — Confidentialité",
+    "article8Text": "Chaque partie s'engage à traiter comme confidentielles toutes les informations échangées dans le cadre de la prestation. Cette obligation de confidentialité subsiste pendant une durée de 2 ans après la fin de la relation contractuelle.",
+    "article9Title": "Article 9 — Droit applicable et litiges",
+    "article9Text": "Les présentes CGV sont régies par le droit français. En cas de litige, les parties s'engagent à rechercher une solution amiable. À défaut, les tribunaux compétents de Paris seront seuls compétents.",
+    "lastUpdated": "Dernière mise à jour : février 2026"
+  },
+  "privacy": {
+    "metaTitle": "Politique de confidentialité — Smart Leads",
+    "title": "Politique de confidentialité",
+    "controllerTitle": "Responsable du traitement",
+    "company": "Société :",
+    "companyValue": "ECOMSKY (SARL)",
+    "addressLabel": "Adresse :",
+    "addressValue": "229 rue Saint-Honoré, 75001 Paris, France",
+    "contactLabel": "Contact :",
+    "contactValue": "via le formulaire disponible sur smart-leads.fr",
+    "dataCollectedTitle": "Données collectées",
+    "dataCollectedText": "Dans le cadre de l'utilisation du site smart-leads.fr, nous sommes susceptibles de collecter les données suivantes :",
+    "dataCollectedItems": [
+      "Informations renseignées dans le formulaire de qualification (nom, email, téléphone, informations sur votre activité et vos campagnes publicitaires)",
+      "Données de navigation (adresse IP, type de navigateur, pages consultées, durée de visite)",
+      "Données transmises via les paramètres UTM des campagnes publicitaires"
+    ],
+    "purposeTitle": "Finalités du traitement",
+    "purposeText": "Vos données sont collectées pour les finalités suivantes :",
+    "purposeItems": [
+      "Évaluer la pertinence d'une collaboration entre vous et ECOMSKY",
+      "Vous recontacter dans le cadre de votre demande",
+      "Améliorer la qualité de nos services et de notre site",
+      "Mesurer la performance de nos campagnes publicitaires"
+    ],
+    "legalBasisTitle": "Base légale",
+    "legalBasisText": "Le traitement de vos données repose sur votre consentement (soumission du formulaire) et sur notre intérêt légitime (amélioration de nos services et mesure de performance).",
+    "retentionTitle": "Durée de conservation",
+    "retentionText": "Vos données personnelles sont conservées pour une durée maximale de 24 mois à compter de leur collecte, sauf obligation légale contraire. Les données de navigation sont conservées pendant 13 mois conformément aux recommandations de la CNIL.",
+    "sharingTitle": "Partage des données",
+    "sharingText": "Vos données ne sont jamais revendues à des tiers. Elles peuvent être partagées avec :",
+    "sharingItems": [
+      "Nos sous-traitants techniques (hébergement, outils d'analyse) dans le strict cadre de la prestation",
+      "Les plateformes publicitaires (Meta, Google) dans le cadre du suivi des conversions, uniquement pour les leads qualifiés"
+    ],
+    "sharingNote": "Tous nos sous-traitants sont soumis à des obligations de confidentialité et de sécurité conformes au RGPD.",
+    "rightsTitle": "Vos droits",
+    "rightsText": "Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez des droits suivants :",
+    "rightsItems": [
+      { "name": "Droit d'accès", "desc": "obtenir une copie de vos données personnelles" },
+      { "name": "Droit de rectification", "desc": "corriger des données inexactes" },
+      { "name": "Droit de suppression", "desc": "demander l'effacement de vos données" },
+      { "name": "Droit d'opposition", "desc": "vous opposer au traitement de vos données" },
+      { "name": "Droit à la portabilité", "desc": "recevoir vos données dans un format structuré" },
+      { "name": "Droit de limitation", "desc": "restreindre le traitement de vos données" }
+    ],
+    "rightsContact": "Pour exercer ces droits, contactez-nous via le formulaire disponible sur smart-leads.fr. Nous nous engageons à répondre dans un délai de 30 jours.",
+    "rightsCnil": "Vous disposez également du droit d'introduire une réclamation auprès de la CNIL (Commission Nationale de l'Informatique et des Libertés) — www.cnil.fr.",
+    "cookiesTitle": "Cookies",
+    "cookiesText": "Le site smart-leads.fr utilise des cookies techniques nécessaires au fonctionnement du site et des cookies de mesure d'audience. Vous pouvez gérer vos préférences en matière de cookies via les paramètres de votre navigateur.",
+    "securityTitle": "Sécurité",
+    "securityText": "Nous mettons en œuvre les mesures techniques et organisationnelles appropriées pour protéger vos données personnelles contre tout accès non autorisé, altération, divulgation ou destruction.",
+    "lastUpdated": "Dernière mise à jour : février 2026"
+  }
+}

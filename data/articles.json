@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fr-001",
+    "slug": "pourquoi-vos-leads-meta-ne-convertissent-pas",
+    "locale": "fr",
+    "title": "Pourquoi 85% de vos leads Meta ne convertissent pas",
+    "excerpt": "Vous générez des centaines de leads chaque mois via Meta Ads, mais votre taux de closing reste faible. Le problème ne vient pas de vos annonces — il vient des signaux envoyés à l'algorithme.",
+    "date": "2026-02-20",
+    "author": "Smart Leads",
+    "readTime": "5 min",
+    "tags": ["Meta Ads", "Qualification", "Leads"],
+    "body": "## Le paradoxe du volume\n\nPlus vous générez de leads, plus votre coût par lead baisse. Sur le papier, c'est une victoire. Mais dans la réalité, votre équipe commerciale passe son temps à traiter des contacts qui n'achèteront jamais.\n\n**Le problème fondamental** : Meta optimise sur les conversions que vous lui envoyez. Si chaque formulaire rempli déclenche un événement de conversion, Meta cherche des profils similaires à *tous* ceux qui remplissent le formulaire — y compris les curieux, les sans-budget, et les mauvais profils.\n\n## Comment l'algorithme apprend\n\nL'algorithme publicitaire de Meta fonctionne sur un principe simple : vous lui montrez ce qu'est un \"succès\", et il cherche des profils similaires.\n\nLe problème, c'est que la plupart des annonceurs définissent le succès comme \"un formulaire rempli\". Or, remplir un formulaire ne signifie pas être un bon prospect.\n\n### Ce qui se passe concrètement :\n\n1. Un visiteur remplit votre formulaire\n2. Meta enregistre cet événement comme une conversion\n3. L'algorithme cherche des profils similaires à ce visiteur\n4. Vous recevez plus de leads du même type — qualifiés ou non\n\n## La solution : filtrer les signaux\n\nLa clé est de ne pas envoyer tous les formulaires comme des conversions. Seuls les prospects **réellement qualifiés** doivent déclencher l'événement de conversion envoyé à Meta.\n\nC'est exactement ce que fait Smart Leads : nous ajoutons une couche de qualification entre votre formulaire et Meta. Résultat :\n\n- Meta n'apprend que de vos vrais clients\n- L'algorithme s'améliore au fil du temps\n- Votre coût par client qualifié baisse progressivement\n\n## Conclusion\n\nSi vous voulez que vos campagnes Meta deviennent réellement rentables, il ne suffit pas d'optimiser vos annonces. Il faut optimiser **ce que Meta apprend**. C'est la différence entre générer du volume et générer de la valeur."
+  },
+  {
+    "id": "fr-002",
+    "slug": "comment-reduire-cpa-meta-ads",
+    "locale": "fr",
+    "title": "Comment réduire votre CPA de 40% sur Meta Ads",
+    "excerpt": "Votre coût par acquisition augmente ? La solution n'est pas de dépenser plus, mais d'envoyer de meilleurs signaux à l'algorithme. Voici comment.",
+    "date": "2026-02-15",
+    "author": "Smart Leads",
+    "readTime": "4 min",
+    "tags": ["CPA", "Meta Ads", "Optimisation"],
+    "body": "## Le CPA, un indicateur mal compris\n\nLa plupart des annonceurs regardent leur CPA (coût par acquisition) comme le coût par lead. Mais le vrai CPA devrait être le **coût par client signé**.\n\nSi vous payez 20€ par lead mais que seulement 15% de ces leads deviennent clients, votre vrai CPA est de 133€. C'est un chiffre que beaucoup préfèrent ignorer.\n\n## Pourquoi votre CPA augmente\n\nQuand Meta reçoit des signaux de conversion de mauvaise qualité, l'algorithme s'entraîne sur des données biaisées. Plus il apprend des mauvais profils, plus il vous envoie des mauvais profils.\n\nC'est un cercle vicieux :\n1. Leads non qualifiés → conversion envoyée à Meta\n2. Meta optimise sur ces profils\n3. Vous recevez encore plus de leads non qualifiés\n4. Votre CPA réel explose\n\n## La méthode Smart Leads\n\nNotre approche casse ce cercle vicieux en 4 étapes :\n\n### 1. Qualification automatique\nChaque lead est évalué en temps réel selon vos critères (budget, besoin, urgence, profil).\n\n### 2. Filtrage OK/KO\nSeuls les leads qualifiés (OK) déclenchent un événement de conversion. Les autres (KO) sont filtrés.\n\n### 3. Signal optimisé\nMeta ne reçoit que des signaux de qualité. L'algorithme apprend à trouver des profils similaires à vos vrais clients.\n\n### 4. Amélioration continue\nPlus Meta accumule des signaux qualifiés, plus vos campagnes deviennent précises et rentables.\n\n## Les résultats observés\n\nNos clients constatent en moyenne :\n- **-40%** sur le coût par client qualifié\n- **×2.3** de retour sur investissement\n- Des équipes commerciales qui ne perdent plus leur temps\n\n## Passez à l'action\n\nArrêtez de payer pour des leads qui ne convertiront jamais. Réservez un appel pour voir comment Smart Leads peut transformer vos campagnes Meta."
+  },
+  {
+    "id": "fr-003",
+    "slug": "qualification-leads-b2b-guide",
+    "locale": "fr",
+    "title": "Guide complet : la qualification de leads en B2B",
+    "excerpt": "En B2B, tous les leads ne se valent pas. Découvrez comment mettre en place un système de qualification qui améliore votre closing rate et réduit le gaspillage publicitaire.",
+    "date": "2026-02-10",
+    "author": "Smart Leads",
+    "readTime": "6 min",
+    "tags": ["B2B", "Qualification", "Guide"],
+    "body": "## Pourquoi la qualification est cruciale en B2B\n\nEn B2C, un lead de mauvaise qualité vous coûte quelques euros. En B2B, chaque lead non qualifié peut représenter des heures de travail commercial perdues et des centaines d'euros gaspillées.\n\nLe cycle de vente B2B est long. Chaque prospect traité mobilise votre équipe pendant des semaines. Si ce prospect n'est pas qualifié, c'est un investissement à perte.\n\n## Les critères de qualification essentiels\n\n### Budget\nLe prospect a-t-il le budget nécessaire ? C'est le premier filtre et le plus important.\n\n### Besoin\nSon besoin correspond-il réellement à votre offre ? Un prospect qui cherche quelque chose que vous ne proposez pas est un lead perdu d'avance.\n\n### Timing\nLe projet est-il immédiat, à court terme, ou \"un jour peut-être\" ? Priorisez les projets avec une échéance claire.\n\n### Décideur\nParlez-vous au décideur ou à quelqu'un qui n'a pas le pouvoir de signer ?\n\n## L'erreur classique\n\nLa plupart des entreprises qualifient leurs leads **après** les avoir reçus. Elles envoient tous les formulaires à Meta comme des conversions, puis trient manuellement.\n\nLe problème : Meta a déjà appris des mauvais signaux. L'algorithme continue de vous envoyer des profils similaires aux non-qualifiés.\n\n## La bonne approche : qualifier avant la conversion\n\nAvec Smart Leads, la qualification se fait **en temps réel**, directement dans le formulaire. L'événement de conversion n'est envoyé à Meta que si le prospect passe tous les critères.\n\n### Les avantages :\n- Meta n'apprend que des bons profils\n- Votre CPA diminue naturellement\n- Votre équipe commerciale ne traite que des prospects qualifiés\n- Votre closing rate augmente mécaniquement\n\n## Comment implémenter ce système\n\n1. **Définissez vos critères OK/KO** — Qu'est-ce qui fait un bon prospect pour vous ?\n2. **Intégrez la qualification au formulaire** — Les questions de qualification sont intégrées au parcours\n3. **Connectez les signaux à Meta** — Seuls les OK déclenchent la conversion\n4. **Itérez et optimisez** — Affinez vos critères au fil du temps\n\n## Conclusion\n\nLa qualification de leads n'est pas un luxe, c'est une nécessité. En B2B, la différence entre une entreprise qui stagne et une qui croît se joue souvent dans la qualité de ses leads, pas dans leur volume."
+  },
+  {
+    "id": "en-001",
+    "slug": "why-your-meta-leads-dont-convert",
+    "locale": "en",
+    "title": "Why 85% of your Meta leads don't convert",
+    "excerpt": "You're generating hundreds of leads every month through Meta Ads, but your closing rate stays low. The problem isn't your ads — it's the signals sent to the algorithm.",
+    "date": "2026-02-20",
+    "author": "Smart Leads",
+    "readTime": "5 min",
+    "tags": ["Meta Ads", "Qualification", "Leads"],
+    "body": "## The volume paradox\n\nThe more leads you generate, the lower your cost per lead. On paper, that's a win. But in reality, your sales team spends its time processing contacts who will never buy.\n\n**The fundamental problem**: Meta optimizes on the conversions you send it. If every filled form triggers a conversion event, Meta looks for profiles similar to *everyone* who fills the form — including the curious, the budget-less, and the bad fits.\n\n## How the algorithm learns\n\nMeta's advertising algorithm works on a simple principle: you show it what \"success\" looks like, and it finds similar profiles.\n\nThe problem is that most advertisers define success as \"a form filled out.\" But filling out a form doesn't mean being a good prospect.\n\n### What actually happens:\n\n1. A visitor fills out your form\n2. Meta records this event as a conversion\n3. The algorithm looks for similar profiles\n4. You receive more leads of the same type — qualified or not\n\n## The solution: filter the signals\n\nThe key is to not send all form submissions as conversions. Only **truly qualified** prospects should trigger the conversion event sent to Meta.\n\nThat's exactly what Smart Leads does: we add a qualification layer between your form and Meta. The result:\n\n- Meta only learns from your real clients\n- The algorithm improves over time\n- Your cost per qualified client drops progressively\n\n## Conclusion\n\nIf you want your Meta campaigns to become truly profitable, it's not enough to optimize your ads. You need to optimize **what Meta learns**. That's the difference between generating volume and generating value."
+  },
+  {
+    "id": "en-002",
+    "slug": "how-to-reduce-cpa-meta-ads",
+    "locale": "en",
+    "title": "How to reduce your CPA by 40% on Meta Ads",
+    "excerpt": "Your cost per acquisition keeps rising? The solution isn't spending more — it's sending better signals to the algorithm. Here's how.",
+    "date": "2026-02-15",
+    "author": "Smart Leads",
+    "readTime": "4 min",
+    "tags": ["CPA", "Meta Ads", "Optimization"],
+    "body": "## CPA: a misunderstood metric\n\nMost advertisers look at their CPA (cost per acquisition) as cost per lead. But the real CPA should be the **cost per signed client**.\n\nIf you pay €20 per lead but only 15% of those leads become clients, your real CPA is €133. That's a number many prefer to ignore.\n\n## Why your CPA keeps rising\n\nWhen Meta receives poor quality conversion signals, the algorithm trains on biased data. The more it learns from bad profiles, the more bad profiles it sends you.\n\nIt's a vicious cycle:\n1. Unqualified leads → conversion sent to Meta\n2. Meta optimizes on these profiles\n3. You receive even more unqualified leads\n4. Your real CPA explodes\n\n## The Smart Leads method\n\nOur approach breaks this cycle in 4 steps:\n\n### 1. Automatic qualification\nEach lead is evaluated in real time against your criteria (budget, need, urgency, profile).\n\n### 2. OK/KO filtering\nOnly qualified leads (OK) trigger a conversion event. Others (KO) are filtered out.\n\n### 3. Optimized signal\nMeta only receives quality signals. The algorithm learns to find profiles similar to your real clients.\n\n### 4. Continuous improvement\nThe more qualified signals Meta accumulates, the more precise and profitable your campaigns become.\n\n## Observed results\n\nOur clients see on average:\n- **-40%** on cost per qualified client\n- **×2.3** return on investment\n- Sales teams that stop wasting time\n\n## Take action\n\nStop paying for leads that will never convert. Book a call to see how Smart Leads can transform your Meta campaigns."
+  },
+  {
+    "id": "en-003",
+    "slug": "b2b-lead-qualification-guide",
+    "locale": "en",
+    "title": "Complete guide: B2B lead qualification",
+    "excerpt": "In B2B, not all leads are equal. Learn how to set up a qualification system that improves your closing rate and reduces ad spend waste.",
+    "date": "2026-02-10",
+    "author": "Smart Leads",
+    "readTime": "6 min",
+    "tags": ["B2B", "Qualification", "Guide"],
+    "body": "## Why qualification is crucial in B2B\n\nIn B2C, a bad lead costs you a few euros. In B2B, each unqualified lead can represent hours of wasted sales work and hundreds of euros thrown away.\n\nThe B2B sales cycle is long. Each prospect handled mobilizes your team for weeks. If that prospect isn't qualified, it's a losing investment.\n\n## Essential qualification criteria\n\n### Budget\nDoes the prospect have the necessary budget? This is the first and most important filter.\n\n### Need\nDoes their need actually match your offer? A prospect looking for something you don't provide is a lost lead from the start.\n\n### Timing\nIs the project immediate, short-term, or \"someday maybe\"? Prioritize projects with a clear deadline.\n\n### Decision-maker\nAre you talking to the decision-maker or someone without signing authority?\n\n## The classic mistake\n\nMost companies qualify their leads **after** receiving them. They send all form submissions to Meta as conversions, then manually sort through them.\n\nThe problem: Meta has already learned from bad signals. The algorithm keeps sending you profiles similar to the unqualified ones.\n\n## The right approach: qualify before conversion\n\nWith Smart Leads, qualification happens **in real time**, directly in the form. The conversion event is only sent to Meta if the prospect passes all criteria.\n\n### The benefits:\n- Meta only learns from good profiles\n- Your CPA naturally decreases\n- Your sales team only handles qualified prospects\n- Your closing rate mechanically increases\n\n## How to implement this system\n\n1. **Define your OK/KO criteria** — What makes a good prospect for you?\n2. **Integrate qualification into the form** — Qualification questions are built into the flow\n3. **Connect signals to Meta** — Only OKs trigger the conversion\n4. **Iterate and optimize** — Refine your criteria over time\n\n## Conclusion\n\nLead qualification isn't a luxury — it's a necessity. In B2B, the difference between a stagnating company and a growing one often comes down to lead quality, not volume."
+  }
+]
