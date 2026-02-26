@@ -44,7 +44,7 @@ export default function Formulaire() {
         <div
           ref={containerRef}
           id="okko-form-container"
-          className="fade-up mt-10 rounded-2xl border border-dark-border bg-dark-card shadow-[0_4px_40px_rgba(0,0,0,0.3)] max-w-[700px] mx-auto min-h-[300px] md:min-h-[400px]"
+          className="fade-up mt-10 max-w-[700px] mx-auto min-h-[300px] md:min-h-[400px] overflow-hidden"
         />
 
         <p className="fade-up mt-8 text-sm text-txt-dim font-body">
