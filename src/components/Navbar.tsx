@@ -64,7 +64,7 @@ export default function Navbar() {
           {/* CTA */}
           <a
             href="#formulaire"
-            className="btn-glow inline-flex items-center gap-1.5 px-4 sm:px-5 py-2.5 min-h-[44px] rounded-lg font-semibold text-xs sm:text-sm text-dark transition-all duration-300 hover:scale-[1.03] active:scale-[0.98]"
+            className="btn-glow inline-flex items-center gap-1.5 px-3 sm:px-5 py-2.5 min-h-[44px] rounded-lg font-semibold text-[11px] sm:text-sm text-dark transition-all duration-300 hover:scale-[1.03] active:scale-[0.98] whitespace-nowrap"
             style={{ background: "linear-gradient(135deg, #00E87B 0%, #059669 100%)" }}
           >
             {t.navbar.cta} <span className="ml-0.5">&rarr;</span>
